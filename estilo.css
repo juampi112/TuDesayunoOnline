@@ -302,11 +302,6 @@ img{
 .slider__section-btn:hover{
 	color: #fff;
 }
-.main-footer {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 20px;
-}
 
 .main-footer{
   background: #151515;
